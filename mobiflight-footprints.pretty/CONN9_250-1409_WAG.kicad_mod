@@ -1,0 +1,316 @@
+(footprint "CONN9_250-1409_WAG"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "250-1409 ")
+	(property "Reference" "REF**"
+		(at 9.380002 -2.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d6bd8295-b04d-47c1-a276-efcf8a98ea96")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN9_250-1409_WAG"
+		(at 9.380002 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "399e3cba-602e-4a9e-82e8-7ebc25e0ea6b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57b8a616-80ba-4225-bad5-e56a5baaf38c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ea5ad6f-b607-48a5-b59e-05ca7b493acc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a3df5df-3e94-423c-bdce-1e4b1ad446c9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center -4.704997 0)
+		(end -4.323997 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "b30c562c-cb58-4900-8157-b6db61847ba4")
+	)
+	(fp_line
+		(start -2.926999 -7.427001)
+		(end -2.926999 4.826998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fa36e0e5-0d2c-40c7-92f9-085dc5981d0e")
+	)
+	(fp_line
+		(start -2.926999 4.826998)
+		(end 21.687003 4.826998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6af772ed-025e-4edd-a40e-1bd35b436a22")
+	)
+	(fp_line
+		(start 21.687003 -7.427001)
+		(end -2.926999 -7.427001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7cd5fe9-aa1b-49dd-89f9-71943b1ae6e1")
+	)
+	(fp_line
+		(start 21.687003 4.826998)
+		(end 21.687003 -7.427001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e5afc7a-8a70-4024-bf91-79c9d213ff01")
+	)
+	(fp_circle
+		(center -4.704997 0)
+		(end -4.323997 0)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e6e77b8f-a64c-4e3f-a8d6-0bbf28a6cf7c")
+	)
+	(fp_line
+		(start -3.053999 -7.554001)
+		(end -3.053999 4.953998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bcedd839-3ed3-47ab-8610-c4f944b19700")
+	)
+	(fp_line
+		(start -3.053999 4.953998)
+		(end 21.814003 4.953998)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "34e7f3c6-def2-4d32-82ac-2e89a9285142")
+	)
+	(fp_line
+		(start 21.814003 -7.554001)
+		(end -3.053999 -7.554001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5772afaf-efad-4204-8783-c1b580ef1cdf")
+	)
+	(fp_line
+		(start 21.814003 4.953998)
+		(end 21.814003 -7.554001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b015c89a-c9d9-4988-9571-cbb74d36a9d7")
+	)
+	(fp_line
+		(start -2.799999 -7.300001)
+		(end -2.799999 4.699998)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "87d1cf4d-62d4-4812-9afc-911c91606569")
+	)
+	(fp_line
+		(start -2.799999 4.699998)
+		(end 21.560003 4.699998)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1bea1a26-4305-4d27-a42e-2bd609b42606")
+	)
+	(fp_line
+		(start 21.560003 -7.300001)
+		(end -2.799999 -7.300001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ee63d13-f24b-4eb7-88d7-1030877038fa")
+	)
+	(fp_line
+		(start 21.560003 4.699998)
+		(end 21.560003 -7.300001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "57063c88-4e4d-4d21-8041-f4fc0599c4cf")
+	)
+	(fp_circle
+		(center 0 1.905)
+		(end 0.381 1.905)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "4feb6ffe-261d-4dba-bbe7-f3a006710a4b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 9.380002 -2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "be13cbf7-764a-4680-9dc8-2c4bcbf24f1f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "eb3ba48c-87b6-4584-967f-3710c2e310ad")
+	)
+	(pad "2" thru_hole circle
+		(at 2.540003 -5)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "31588f0f-701d-4a09-9821-289ff86119a1")
+	)
+	(pad "3" thru_hole circle
+		(at 5.080003 0)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b8ea606a-dd00-4851-a174-1d515f1b44e6")
+	)
+	(pad "4" thru_hole circle
+		(at 7.620003 -5)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "88812bcd-4676-4626-b8ca-005eb0544739")
+	)
+	(pad "5" thru_hole circle
+		(at 10.160003 0)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "16db6a14-4d35-4eb4-b6ad-162d3ffd3c6b")
+	)
+	(pad "6" thru_hole circle
+		(at 12.700003 -5)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ca2a5866-d8b6-459f-b650-d42827e04f70")
+	)
+	(pad "7" thru_hole circle
+		(at 15.240003 0)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bb9fb8c7-ff6a-461a-837f-e9b720401906")
+	)
+	(pad "8" thru_hole circle
+		(at 17.780003 -5)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2d025118-73b6-4675-9ac8-ee78bee89287")
+	)
+	(pad "9" thru_hole circle
+		(at 20.320003 0)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "87a35b0e-f59a-4322-8536-8d0be9407099")
+	)
+	(model "${KICAD_MOBIFLIGHT_DIR}/3D files/Wago/250-1409.stp"
+		(offset
+			(xyz 21.59 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)

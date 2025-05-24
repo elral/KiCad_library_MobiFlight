@@ -1,0 +1,1 @@
+To use this library create a new environment variable "KICAD_MOBIFLIGHT_DIR" within KiCad and set the path to this folder.
